@@ -1,7 +1,7 @@
-numpy  # Replace with your preferred version
-matplotlib # Replace with your preferred version
-tk  # Use version compatible with Python 3
-keras  # Replace with your preferred version
-tensorflow # Replace with your preferred version
+numpy
+matplotlib
+tkinter
+keras
+tensorflow
 flask
-opencv-python  # Replace with your preferred version
+opencv-python
